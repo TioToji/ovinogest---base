@@ -78,4 +78,7 @@ Ja com os pacotes instalados, vamos para as configurações:
 
 # Substituição dos arquivos
 
-Após seguir esses passos, baixe os arquivos () que estão na ramificação 'main'
+Após seguir esses passos, baixe os arquivos (db.sqlite3 e manage.py) que estão na 
+ramificação 'main' e substitua na pasta do ambiente virtual:
+
+![image](https://github.com/user-attachments/assets/fe0e7db0-6e0c-4f52-81b4-327b494039d4)

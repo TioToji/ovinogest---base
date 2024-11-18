@@ -137,3 +137,18 @@ Por fim, copie as pastas "css" e "js" para a pasta static do projeto:
 ![image](https://github.com/user-attachments/assets/d7777c61-6f64-45ad-b594-0ff2980b8ced)
 
 ![image](https://github.com/user-attachments/assets/9a56ca9e-a3af-4dcd-bc80-99757598124f)
+
+==================================================================================
+
+# Criando um super usuário para o projeto
+
+Retorne ao terminal e crie o super usuário:
+
+> py manage.py createsuperuser
+
+O terminal retornará as opções para nome, email e senha. Utilize as seguintes
+credenciais:
+
+< Username: dev
+< Email address:
+< Password: 12345678

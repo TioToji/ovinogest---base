@@ -8,7 +8,7 @@ Esses são apenas os arquivos base do projeto (apenas para substituir os antigos
 
 Segue os comandos via terminal para a criação do ambiente virtual e do projeto:
 
-==================================================================================
+===================================================================================
 
 # Criação do Ambiente Virtual
 

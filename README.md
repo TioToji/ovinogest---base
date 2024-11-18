@@ -74,4 +74,8 @@ Ja com os pacotes instalados, vamos para as configurações:
 
 > python manage.py startapp ovinogestApp
 
-------  ------
+==================================================================================
+
+# Substituição dos arquivos
+
+Após seguir esses passos, baixe os arquivos () que estão na ramificação 'main'

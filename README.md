@@ -42,4 +42,14 @@ Se der certo, o status do seu terminal deve ficar parecido com isso:
 Ja dentro do ambiente, precisa instalar alguns pacotes nele para conseguir rodar o
 projeto no estado atual:
 
-> pip install requests  #Instalar todos os pacotes python necessários
+> pip install --upgrade pip
+
+#Atualizar o pip 
+ 
+> pip install requests
+
+#Instalar todos os pacotes python necessários
+
+> pip install django
+
+#Intalar o Django

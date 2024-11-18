@@ -10,12 +10,12 @@ Segue os comandos via terminal para a criação do ambiente virtual e do projeto
 
 ==================================================================================
 
+# Criação do Ambiente Virtual
+
 Primeiro, precisa criar uma pasta:
 
 > mkdir ovinogest
 > cd ovinogest
-
-==================================================================================
 
 Partindo para a criação do ambiente virtual:
 
@@ -29,10 +29,6 @@ ou
 
 > python3 -m venv myenv
 
-Pronto, seu ambiente virtual foi criado!!
-
-==================================================================================
-
 Agora precisa entrar nesse ambiente virtual:
 
 > myenv\Scripts\activate
@@ -42,6 +38,8 @@ Se der certo, o status do seu terminal deve ficar parecido com isso:
 > (myenv) C:\ovinogest>
 
 ==================================================================================
+
+# Instalação de pacotes
 
 Ja dentro do ambiente, precisa instalar alguns pacotes nele para conseguir rodar o
 projeto no estado atual:
@@ -63,6 +61,8 @@ projeto no estado atual:
 > pip install pillow
 
 ==================================================================================
+
+# Configurações do Django
 
 Ja com os pacotes instalados, vamos para as configurações:
 

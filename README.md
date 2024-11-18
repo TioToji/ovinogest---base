@@ -78,7 +78,16 @@ Ja com os pacotes instalados, vamos para as configurações:
 
 # Substituição dos arquivos
 
-Após seguir esses passos, baixe os arquivos (db.sqlite3 e manage.py) que estão na 
-ramificação 'main' e substitua na pasta do ambiente virtual:
+Após seguir esses passos, baixe os arquivos (settings.py e urls.py) da ramificação 
+ovinogest nesse repositório do git e substitua na pasta ovinogest:
 
-![image](https://github.com/user-attachments/assets/fe0e7db0-6e0c-4f52-81b4-327b494039d4)
+![image](https://github.com/user-attachments/assets/7067fdeb-232f-434f-a4c2-2025d6303345)
+
+Também baixe os arquivos (forms.py , models.py  e views.py) da ramificação ovinogestApp
+nesse repositório do git e substitua na pasta ovinogestApp:
+
+![image](https://github.com/user-attachments/assets/4683e378-ff29-4192-a1b8-0ea0d53f2347)
+
+==================================================================================
+
+

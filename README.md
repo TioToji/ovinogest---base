@@ -37,7 +37,7 @@ Se der certo, o status do seu terminal deve ficar parecido com isso:
 
 > (myenv) C:\ovinogest>
 
-===========================================================================
+===================================================================================
 
 # Instalação de pacotes
 
@@ -60,7 +60,7 @@ projeto no estado atual:
 
 > pip install pillow
 
-===========================================================================
+===================================================================================
 
 # Configurações do Django
 
@@ -74,7 +74,7 @@ Ja com os pacotes instalados, vamos para as configurações:
 
 > python manage.py startapp ovinogestApp
 
-===========================================================================
+===================================================================================
 
 # Criação de pastas adicionais (obrigatório)
 
@@ -99,7 +99,7 @@ Acesse a pasta e crie a pasta "img":
 > cd static
 > mkdir img
 
-===========================================================================
+===================================================================================
 
 # Substituição dos arquivos
 
@@ -119,7 +119,7 @@ que se encontra dentro da pasta ovinogestApp:
 
 ![image](https://github.com/user-attachments/assets/46d7b01a-ffde-468f-927d-b123c55d95ea)
 
-===========================================================================
+===================================================================================
 
 # Instalação dos serviços Bootstrap
 
@@ -138,7 +138,7 @@ Por fim, copie as pastas "css" e "js" para a pasta static do projeto:
 
 ![image](https://github.com/user-attachments/assets/9a56ca9e-a3af-4dcd-bc80-99757598124f)
 
-===========================================================================
+===================================================================================
 
 # Criando um super usuário para o projeto
 
@@ -153,4 +153,4 @@ credenciais:
 > Email address:
 > Password: 12345678
 
-===========================================================================
+===================================================================================

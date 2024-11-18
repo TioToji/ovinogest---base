@@ -2,7 +2,11 @@
 
 Repositorio da base do projeto Ovinogest
 
-Esses são apenas os arquivos base do projeto (apenas para substituir os antigos no seu projeto), para rodar o servidor e verificar a funcionalidade você precisa ter o projeto em um ambiente virtual e obviamente ter o projeto tbm já pré intalado. Segue os comandos via terminal para a criação do ambiente virtual e do projeto:
+Esses são apenas os arquivos base do projeto (apenas para substituir os antigos no seu projeto), para rodar o servidor e verificar a funcionalidade você precisa ter o projeto em um ambiente virtual e obviamente ter o projeto tbm já pré intalado. 
+
+# 
+
+Segue os comandos via terminal para a criação do ambiente virtual e do projeto:
 
 ==================================================================================
 
@@ -42,14 +46,32 @@ Se der certo, o status do seu terminal deve ficar parecido com isso:
 Ja dentro do ambiente, precisa instalar alguns pacotes nele para conseguir rodar o
 projeto no estado atual:
 
+# Atualizar o pip 
+
 > pip install --upgrade pip
 
-#Atualizar o pip 
+# Instalar todos os pacotes python necessários
  
 > pip install requests
 
-#Instalar todos os pacotes python necessários
+# Instalar o Django
 
 > pip install django
 
-#Intalar o Django
+# Instalar o Pillow
+
+> pip install pillow
+
+==================================================================================
+
+Ja com os pacotes instalados, vamos para as configurações:
+
+# Startar o projeto
+
+> django-admin startproject ovinogest
+
+# Startar o App da aplicação
+
+> python manage.py startapp ovinogestApp
+
+#

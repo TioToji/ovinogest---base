@@ -19,7 +19,12 @@ Partindo para a criação do ambiente virtual:
 
 Caso não dê certo, tente:
 
-< python -m venv myenv >      ou      < python3 -m venv myenv >
+> python -m venv myenv
+
+ou
+
+> python3 -m venv myenv
+
 Pronto, seu ambiente virtual foi criado!!
 
 ==================================================================================

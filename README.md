@@ -13,13 +13,19 @@ Primeiro, precisa criar uma pasta:
 
 ==================================================================================
 
-Partindo pra criação do ambiente virtual:
+Partindo para a criação do ambiente virtual:
 
-> py -m venv (nome do ambiente virtual)
+>py -m venv (nome do ambiente virtual)
 
 Caso não dê certo, tente:
 
-> python -m venv (nome do ambiente virtual)       ou       > python3 -m venv (nome do ambiente virtual)
+>python -m venv (nome do ambiente virtual)       ou       > python3 -m venv (nome do ambiente virtual)
 
 Pronto, seu ambiente virtual foi criado!!
 
+==================================================================================
+
+Agora precisa entrar nesse ambiente virtual:
+
+>\(nome do ambiente virtual)\Scripts\activate
+>

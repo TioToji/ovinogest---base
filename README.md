@@ -8,24 +8,31 @@ Esses são apenas os arquivos base do projeto (apenas para substituir os antigos
 
 Primeiro, precisa criar uma pasta:
 
-> mkdir (nome do projeto)
-> cd (nome do projeto)
+> mkdir ovinogest
+> cd ovinogest
 
 ==================================================================================
 
 Partindo para a criação do ambiente virtual:
 
->py -m venv (nome do ambiente virtual)
+> py -m venv myenv
 
 Caso não dê certo, tente:
 
->python -m venv (nome do ambiente virtual)       ou       > python3 -m venv (nome do ambiente virtual)
-
+> python -m venv myenv       ou       > python3 -m venv myenv
 Pronto, seu ambiente virtual foi criado!!
 
 ==================================================================================
 
 Agora precisa entrar nesse ambiente virtual:
 
->\(nome do ambiente virtual)\Scripts\activate
->
+> \(nome do ambiente virtual)\Scripts\activate
+
+Se der certo, o status do seu terminal deve ficar assim:
+
+>(ambiente) /
+
+==================================================================================
+
+Ja dentro do ambiente, precisa instalar alguns pacotes nele:
+

@@ -149,6 +149,8 @@ Retorne ao terminal e crie o super usuário:
 O terminal retornará as opções para nome, email e senha. Utilize as seguintes
 credenciais:
 
-< Username: dev
-< Email address:
-< Password: 12345678
+> Username: dev
+> Email address:
+> Password: 12345678
+
+==================================================================================

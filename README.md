@@ -31,11 +31,11 @@ Pronto, seu ambiente virtual foi criado!!
 
 Agora precisa entrar nesse ambiente virtual:
 
-> \(nome do ambiente virtual)\Scripts\activate
+> myenv\Scripts\activate
 
-Se der certo, o status do seu terminal deve ficar assim:
+Se der certo, o status do seu terminal deve ficar parecido com isso:
 
->(ambiente) /
+> (myenv) C:\ovinogest>
 
 ==================================================================================
 
